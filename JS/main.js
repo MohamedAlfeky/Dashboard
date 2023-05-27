@@ -118,7 +118,7 @@ notifications.addEventListener("click", () => {
     );
     addNotification(
       "imgs/team-02.png",
-      "Manar khaled mentioned you in a comment",
+      "Aliaa Mohamed mentioned you in a comment",
       "20 Hours Ago"
     );
     addNotification(
